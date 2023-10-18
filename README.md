@@ -8,6 +8,7 @@ combining programming, mechanics, and electrical hardware to bring my ideas to l
 
 ## Education
 Worcester Polytechnic Institute (WPI) - Class of 2026 
+
 Double Major in Robotics Engineering and Computer Science
 
 ## Interests
