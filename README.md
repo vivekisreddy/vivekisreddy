@@ -16,11 +16,11 @@ Computer Science (BS) | Robotics Engineering (BS)
 **Solgud Robotics (Robots-as-a-Service)** - *Harvard University iLabs, Boston*
 **Robotics Engineer – Founding Team Intern** *June - Sept 2023*
 
-● Programmed the robot software using PUDU software and interpreted the hardware-software connection between the robot and
+● Programmed the robot software using PUDU software and interpreted the hardware-software connection between the robot and   
 the computer
-● Utilized SLAM technology based on LiDAR Cameras, RGBD, IMU, Encoder and multiple sensors to ensure that the robot
+● Utilized SLAM technology based on LiDAR Cameras, RGBD, IMU, Encoder and multiple sensors to ensure that the robot   
 performs the tasks efficiently in mixed environmental settings
-● Understood the use of generative AI within the robot and capturing feedback in which the robot is trained to sense, think, and act
+● Understood the use of generative AI within the robot and capturing feedback in which the robot is trained to sense, think, and act   
 on a specific agenda
 
 **Department of Computer Science** - *WPI*
