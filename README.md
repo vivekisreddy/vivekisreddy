@@ -13,8 +13,7 @@ Computer Science (BS) | Robotics Engineering (BS)
 
 # Work Experience 
 
-**Solgud Robotics (Robots-as-a-Service)** - *Harvard University iLabs, Boston*
-
+**Solgud Robotics (Robots-as-a-Service)** - *Harvard University iLabs, Boston*   
 **Robotics Engineer – Founding Team Intern** *June - Sept 2023*
 
 
