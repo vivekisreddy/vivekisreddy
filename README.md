@@ -17,6 +17,7 @@ Computer Science (BS) | Robotics Engineering (BS)
 
 **Robotics Engineer – Founding Team Intern** *June - Sept 2023*
 
+
 - Programmed the robot software using PUDU software and interpreted the hardware-software connection between the robot and   
 the computer
 - Utilized SLAM technology based on LiDAR Cameras, RGBD, IMU, Encoder and multiple sensors to ensure that the robot   
@@ -24,12 +25,14 @@ performs the tasks efficiently in mixed environmental settings
 - Understood the use of generative AI within the robot and capturing feedback in which the robot is trained to sense, think, and act   
 on a specific agenda
 
+
 **Department of Computer Science** - *WPI*
 
 **Office Assistant, CS Website Developer** *Jan 2023 - Present*
 
 - Interpret current WPI CS Website and develop a better version with new features and more interactive website
 - Utilized graphic design software like Canva and Adobe for developing various kinds of features for the website
+
 
 **Computational Biology & Bioinformatics** - *WPI*
 
@@ -70,5 +73,5 @@ whether it's developing software for embedded systems or optimizing hardware for
 
 I'm always looking for opportunities to collaborate, learn, and explore the exciting world of technology. 
 Whether you're a fellow student, a potential employer, or someone who shares my passion for robotics and computer science, don't hesitate to reach out. 
-You can connect with me via [LinkedIn: https://www.linkedin.com/in/vivek-reddy-kasireddy/] or send me an email at [vivekkasireddyr@gmail.com]
+You can connect with me via [LinkedIn](https://www.linkedin.com/in/vivek-reddy-kasireddy/) or send me an [Email](vivekkasireddyr@gmail.com)
 Let's make technology work for us, one project at a time! 🤖💻🚀
