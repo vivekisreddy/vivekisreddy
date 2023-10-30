@@ -6,12 +6,12 @@ of Artificial Intelligence (AI), Autonomous Mobile Robots (AMR), and Autonomous 
 strong commitment to integrating software seamlessly with hardware to create innovative solutions. I thrive on the challenge of 
 combining programming, mechanics, and electrical hardware to bring my ideas to life.
 
-## Education
+# Education
 Worcester Polytechnic Institute (WPI) - Class of 2026 
 
-Double Major in Robotics Engineering and Computer Science
+Double Major in Robotics Engineering and Computer Science (Bachelors of Science) 
 
-## Interests
+# Interests
 
 My academic journey and personal projects are driven by my fascination with various areas of technology, including:
 
@@ -38,9 +38,9 @@ I find immense satisfaction in creating seamless integration between these two w
 whether it's developing software for embedded systems or optimizing hardware for software performance.
 
 
-Get in Touch
+# Get in Touch
 
 I'm always looking for opportunities to collaborate, learn, and explore the exciting world of technology. 
 Whether you're a fellow student, a potential employer, or someone who shares my passion for robotics and computer science, don't hesitate to reach out. 
-You can connect with me via [LinkedInhttps://www.linkedin.com/in/vivek-reddy-kasireddy/] or send me an email at [vivekkasireddyr@gmail.com]
+You can connect with me via [LinkedIn: https://www.linkedin.com/in/vivek-reddy-kasireddy/] or send me an email at [vivekkasireddyr@gmail.com]
 Let's make technology work for us, one project at a time! 🤖💻🚀
