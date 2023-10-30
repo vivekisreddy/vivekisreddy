@@ -70,5 +70,6 @@ whether it's developing software for embedded systems or optimizing hardware for
 
 I'm always looking for opportunities to collaborate, learn, and explore the exciting world of technology. 
 Whether you're a fellow student, a potential employer, or someone who shares my passion for robotics and computer science, don't hesitate to reach out. 
-You can connect with me via [LinkedIn](https://www.linkedin.com/in/vivek-reddy-kasireddy/) or send me an [Email](vivekkasireddyr@gmail.com)
+You can connect with me via [LinkedIn](https://www.linkedin.com/in/vivek-reddy-kasireddy/) or send me an [Email](vivekkasireddyr@gmail.com) I will also attach my [Vivek Reddy Kasireddy - Resume'24.pdf](https://github.com/vivekisreddy/vivekisreddy/files/13207251/Vivek.Reddy.Kasireddy.-.Resume.24.pdf). 
 Let's make technology work for us, one project at a time! 🤖💻🚀
+
