@@ -14,7 +14,7 @@ Computer Science (BS) | Robotics Engineering (BS)
 # Work Experience 
 
 **Solgud Robotics (Robots-as-a-Service)** - *Harvard University iLabs, Boston*   
-**Robotics Engineer – Founding Team Intern** *June - Sept 2023*
+**Robotics Engineer – Founding Team Intern** | *June - Sept 2023*
 
 
 - Programmed the robot software using PUDU software and interpreted the hardware-software connection between the robot and   
@@ -26,14 +26,14 @@ on a specific agenda
 
 
 **Department of Computer Science** - *WPI*   
-**Office Assistant, CS Website Developer** *Jan 2023 - Present*
+**Office Assistant, CS Website Developer** | *Jan 2023 - Present*
 
 - Interpret current WPI CS Website and develop a better version with new features and more interactive website
 - Utilized graphic design software like Canva and Adobe for developing various kinds of features for the website
 
 
 **Computational Biology & Bioinformatics** - *WPI*   
-**Computer Programmer | Research Assistant** *Sept 2022 - Jan 2023*
+**Computer Programmer & Research Assistant** | *Sept 2022 - Jan 2023*
 
 - Developed plots and graphs using R-Studio and extracted data from Python files, programmed various functions in Python
 - Created and ran simulations under the professor to replicate real-life behaviors of cells at the microscopic level
