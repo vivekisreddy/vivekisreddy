@@ -25,16 +25,14 @@ performs the tasks efficiently in mixed environmental settings
 on a specific agenda
 
 
-**Department of Computer Science** - *WPI*
-
+**Department of Computer Science** - *WPI*   
 **Office Assistant, CS Website Developer** *Jan 2023 - Present*
 
 - Interpret current WPI CS Website and develop a better version with new features and more interactive website
 - Utilized graphic design software like Canva and Adobe for developing various kinds of features for the website
 
 
-**Computational Biology & Bioinformatics** - *WPI*
-
+**Computational Biology & Bioinformatics** - *WPI*   
 **Computer Programmer | Research Assistant** *Sept 2022 - Jan 2023*
 
 - Developed plots and graphs using R-Studio and extracted data from Python files, programmed various functions in Python
