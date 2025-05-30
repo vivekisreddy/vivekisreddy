@@ -73,8 +73,8 @@ Built tools for mechanism simulation with MATLAB + TypeScript.
 
 ## 🏆 Achievements
 
-- 🎓 **GPA**: 3.76/4.00 @ WPI
-- 📜 **Dean’s List**: Spring 2023, Fall 2023, Spring 2024, Fall 2024
+- 🎓 **GPA**: 3.80/4.00 @ WPI
+- 📜 **Dean’s List**: Spring 2023, Fall 2023, Spring 2024, Fall 2024, Spring 2025
 - 🌎 **Vice President** of South Asian Student Association (SASA) — fostering inclusion and community on campus.
 
 ---
