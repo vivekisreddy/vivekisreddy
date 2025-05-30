@@ -1,75 +1,104 @@
-# About Me
+<h1 align="center">Hi there, I'm Vivek Reddy Kasireddy 👋</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Robotics%20%26%20Software%20Engineering-007ACC?style=flat-square&logo=robotframework&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Massachusetts-ff69b4?style=flat-square" />
+  <img src="https://img.shields.io/badge/School-WPI-red?style=flat-square&logo=graduation-cap" />
+</p>
 
-Hello there! 👋 I'm a passionate and driven student double majoring in Robotics Engineering and Computer Science at 
-Worcester Polytechnic Institute (WPI). I have a deep interest in cutting-edge technologies, particularly in the fields 
-of Artificial Intelligence (AI), Autonomous Mobile Robots (AMR), and Autonomous Drones. My work and projects reflect a 
-strong commitment to integrating software seamlessly with hardware to create innovative solutions. I thrive on the challenge of 
-combining programming, mechanics, and electrical hardware to bring my ideas to life.
+---
 
-# Education
-Worcester Polytechnic Institute (WPI) | Class of 2026 
+## 👨‍💻 About Me
 
-Computer Science (BS) | Robotics Engineering (BS) 
+I'm a **Robotics & Computer Science student at WPI** with a passion for building intelligent systems that interact with the real world. I specialize in:
 
-# Work Experience 
+- 🤖 **Robotics Software Integration & Autonomous Systems**
+- 💻 **Back-End Development & Cloud Engineering**
+- 🧠 **Perception, Embedded Systems, and Controls**
+- 🧪 **Software Testing and Simulation (Unreal Engine, MATLAB)**
 
-**Solgud Robotics (Robots-as-a-Service)** - *Harvard University iLabs, Boston*   
-**Robotics Engineer – Founding Team Intern** | *June - Sept 2023*
+Currently looking for **Software Engineering**, **Autonomy/Perception**, or **Embedded Systems** internships for **Summer 2025**.
 
+---
 
-- Programmed the robot software using PUDU software and interpreted the hardware-software connection between the robot and   
-the computer
-- Utilized SLAM technology based on LiDAR Cameras, RGBD, IMU, Encoder and multiple sensors to ensure that the robot   
-performs the tasks efficiently in mixed environmental settings
-- Understood the use of generative AI within the robot and capturing feedback in which the robot is trained to sense, think, and act   
-on a specific agenda
+## 🧠 Technical Toolbox
 
+| Languages | Frameworks & Tools | Specialties |
+|----------|-------------------|------------|
+| `C++`, `Python`, `C`, `TypeScript`, `SQL` | React.js, Node.js, Next.js, AWS, MATLAB, SLAM, PyTorch, TensorFlow | LiDAR, SLAM, ROS2 (in progress), Embedded Systems, Server APIs, Simulation, Socket Programming, FSMs, Control Loops |
 
-**Department of Computer Science** - *WPI*   
-**Office Assistant, CS Website Developer** | *Jan 2023 - Present*
+---
 
-- Interpret current WPI CS Website and develop a better version with new features and more interactive website
-- Utilized graphic design software like Canva and Adobe for developing various kinds of features for the website
+## 📈 Dashboard – Projects & Engineering Experience
 
+### 🚀 Robotics Projects
+| Project | Description | Tools |
+|--------|-------------|-------|
+| 🧭 **Escape Room Maze Runner Robot** | Ramp-climbing robot with AprilTag localization (<5mm accuracy), synchronized with a counterweight robot for balance. | `C/C++`, `Git`, `FSM`, `IR sensors` |
+| ☀️ **Autonomous Solar Panel Replacement Bot** | FSM-driven robot with servo-actuated gripper, line-following algorithm, and IR remote command. | `C++`, `Git`, `FSM`, `Embedded C` |
+| 🎯 **Industrial Manipulator Arm (OpenManipulator-X)** | Developed MATLAB-based control of a 4-DOF arm with kinematics, trajectory planning, and velocity analysis. | `MATLAB`, `Linux`, `Trajectory Planning` |
+| 🌡️ **MSP430 Function Generator & Display** | Built an MSP430-based function generator with SPI DAC and a real-time temp/time LCD interface. | `Embedded C`, `SPI`, `ADC`, `Timer`, `LCD` |
 
-**Computational Biology & Bioinformatics** - *WPI*   
-**Computer Programmer & Research Assistant** | *Sept 2022 - Jan 2023*
+### 🧠 Machine Learning Projects
+| Project | Description | Tools |
+|--------|-------------|-------|
+| 🛑 **Traffic Sign Classifier** | Custom CNN & ResNet50/VGG16 transfer learning on GTSRB dataset. | `TensorFlow`, `PyTorch`, `NumPy` |
+| 📊 **Clustering & Logistic Regression** | Used K-Means and Logistic Regression with L2 regularization to classify real-world data. | `Python`, `scikit-learn` |
 
-- Developed plots and graphs using R-Studio and extracted data from Python files, programmed various functions in Python
-- Created and ran simulations under the professor to replicate real-life behaviors of cells at the microscopic level
+### 🌐 Full Stack / Backend Projects
+| Project | Description | Stack |
+|--------|-------------|-------|
+| 🍽️ **Tables4U** | AWS-hosted restaurant booking app with Lambda APIs, user-driven dashboards. | `React`, `TypeScript`, `SQL`, `AWS Lambda`, `API Gateway` |
+| ⚙️ **PMKS Solver** | Simulated mechanical systems (4-bars, cranks) in TypeScript + MATLAB. | `MATLAB`, `TypeScript`, `Unit Testing` |
+| 🌐 **HTTP Priority Server** | Socket-based HTTP 1.1 client/server with custom packet scheduling. | `C++`, `Python`, `Wireshark` |
 
+---
 
-# Interests
+## 🧪 Experience
 
-My academic journey and personal projects are driven by my fascination with various areas of technology, including:
+### 🔹 **LiDAR Programmer @ AVMI (Unreal Engine)** — *Sept 2024–Present*  
+Worked on integrating SLAM & LiDAR sensors into AV simulations for autonomous driving systems.  
+`C++`, `Python`, `SLAM`, `Simulation`
 
-Artificial Intelligence (AI)
-AI is more than just a buzzword for me. It's a field that continually inspires me. 
-I love exploring machine learning, deep learning, and computer vision to create intelligent and autonomous systems.
+### 🔹 **Software Test Engineer @ Solgud Robotics** — *Harvard University, June–Sept 2023*  
+- Tested LiDAR, RGB-D, IMU, and encoder sensors.
+- Integrated generative AI to help the robot learn from interactions.
 
-Autonomous Mobile Robots (AMR)
+### 🔹 **CS & Robotics Instructor @ iD Tech, MIT Campus** — *Summer 2024*  
+Taught courses like Machine Learning in Python, VEX Robotics Engineering (BattleBots), and AI for over 100+ students.
 
-AMR technology has the potential to revolutionize industries.
-I'm passionate about designing, programming, and optimizing robots 
-that can navigate and perform tasks autonomously.
+### 🔹 **Backend Developer – PMKS Website @ WPI** — *Oct 2023–Present*  
+Built tools for mechanism simulation with MATLAB + TypeScript.
 
-Autonomous Drones
+---
 
-Drones are not just for aerial photography; they represent a 
-fascinating blend of robotics and AI. I enjoy working on drones 
-that can fly autonomously, sense their surroundings, and execute complex missions.
+## 🏆 Achievements
 
-Integration of Software within Hardware
+- 🎓 **GPA**: 3.76/4.00 @ WPI
+- 📜 **Dean’s List**: Spring 2023, Fall 2023, Spring 2024, Fall 2024
+- 🌎 **Vice President** of South Asian Student Association (SASA) — fostering inclusion and community on campus.
 
-The synergy between software and hardware is where the magic happens. 
-I find immense satisfaction in creating seamless integration between these two worlds, 
-whether it's developing software for embedded systems or optimizing hardware for software performance.
+---
 
+## 🌟 What I’m Looking For
 
-# Get in Touch
+✅ Summer 2025 Internship  
+✅ Roles:  
+`Software Engineer`, `Embedded Systems`, `Autonomy Engineer`, `Systems/Controls Engineer`, `Perception & SLAM`
 
-I'm always looking for opportunities to collaborate, learn, and explore the exciting world of technology. 
-Whether you're a fellow student, a potential employer, or someone who shares my passion for robotics and computer science, don't hesitate to reach out. 
-You can connect with me via [LinkedIn](https://www.linkedin.com/in/vivek-reddy-kasireddy/) or send me an [Email](vivekkasireddyr@gmail.com) I will also attach my [Vivek Reddy Kasireddy - Resume'24.pdf](https://github.com/vivekisreddy/vivekisreddy/files/13207251/Vivek.Reddy.Kasireddy.-.Resume.24.pdf). 
-Let's make technology work for us, one project at a time! 🤖💻🚀
+---
 
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-reddy-kasireddy/)  
+[![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vivekisreddy)  
+📧 **vivekkasireddyr@gmail.com**  
+📍 **North Andover, MA**
+
+---
+
+## ⚙️ GitHub Stats (Optional)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vivekisreddy&show_icons=true&theme=radical" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekisreddy&layout=compact&theme=radical" width="45%"/>
+</p>
