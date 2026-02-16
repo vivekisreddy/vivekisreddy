@@ -10,89 +10,94 @@
 
 ## About Me
 
-I am a **Computer Science & Robotics Engineering student at Worcester Polytechnic Institute (WPI)** with 3+ years of experience building scalable software systems, embedded platforms, and autonomous robotic architectures.
+I'm a **Robotics Engineering & Computer Science student at Worcester Polytechnic Institute (WPI)** passionate about developing intelligent, autonomous systems that bridge software and the physical world. My expertise includes:
 
-My work spans:
+* 🤖 **Robotics Software Integration, Autonomous Systems, and Perception**
+* 💻 **Back-End Development, Distributed Systems, and Systems Programming**
+* 🧠 **Embedded Systems, FPGA Architectures, Controls, and Machine Learning**
+* 🧪 **Test Automation, Simulation, and Hardware-Software Debugging**
 
-* 🤖 **Autonomous Systems, Perception, and Navigation**
-* 💻 **Full-Stack & Backend Distributed Systems**
-* ⚙️ **Embedded Systems, FPGA-Based Control, and Hardware/Software Co-Design**
-* 🧠 **Machine Learning, Depth Estimation, and Computer Vision**
-* 🧪 **Test Automation & Real-Time System Validation**
-
-I am particularly interested in **systems engineering, robotics software, distributed backend systems, embedded control, perception, and high-performance applications engineering**.
+Seeking opportunities in **systems engineering**, **perception**, **automation**, **embedded systems**, **controls engineering**, **autonomous systems integration**, **distributed systems**, or **software testing**.
 
 ---
 
 ## Education
 
-**Worcester Polytechnic Institute (WPI)** — Worcester, MA
+**Worcester Polytechnic Institute (WPI)**, Worcester, MA
 Bachelor of Science in Computer Science & Robotics Engineering
-Expected Graduation: May 2026
-GPA: 3.81/4.00 | 6× Dean’s List
+Expected Graduation: May 2026 | GPA: 3.81/4.00
 
-**Relevant Coursework:**
-Software Engineering, Artificial Intelligence, Operating Systems, Computer Networks, Systems Programming, Algorithms, Data Mining, Machine Learning, Embedded Systems, Controls Engineering, Robotics (Actuation, Sensing, Manipulation), Big Data Analytics, Reinforcement Learning for Robotics.
+**Awards:** 6× Dean’s List
+
+**Relevant Coursework:** Software Engineering, Artificial Intelligence, Operating Systems, Computer Networks, Object-Oriented Programming, Systems Programming, Algorithms, Data Mining, Machine Learning, Big Data Analytics, Embedded Computing, Actuation (Robotics I), Sensing (Robotics II), Manipulation (Robotics III), Controls Engineering I, Reinforcement Learning for Robotics.
 
 ---
 
 ## Technical Skills
 
-| Languages                                                             | Frameworks & Systems                                                                                                      | Hardware & Engineering                                                                                                              |
-| --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| C++, C, Python, TypeScript, JavaScript, SQL, Java, Verilog, HTML, CSS | AWS, React.js, Node.js, MySQL, REST APIs, PyTorch, TensorFlow, Scikit-Learn, Pandas, NumPy, Linux, Quartus, ModelSim, Git | FPGA (Altera), SPI, LVDS, ADC/PWM, Jetson (NVIDIA), LiDAR, OpenCV, CAD, Circuit Design, Embedded Control Loops, Vacuum Test Systems |
+| Languages                                                  | Frameworks & Tools                                                                                                                 | Hardware & Specialties                                                                                                                                                |
+| ---------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| C++, C, Python, TypeScript, JavaScript, SQL, Java, Verilog | React.js, Node.js, AWS, PyTorch, TensorFlow, Scikit-Learn, Pandas, NumPy, MATLAB, Quartus, ModelSim, Linux, Git, VS Code, IntelliJ | FPGAs, SPI, LVDS, ADC/DAC, Embedded Systems, Control Loops, Unreal Engine Simulation, LiDAR, OpenCV, 3D Printing, CAD (SolidWorks/CREO), Oscilloscopes, PCB Debugging |
 
 ---
 
 ## Professional Experience
 
-### Test Automation Engineer (Co-Op) — Brooks Automation
+### Test Automation Engineer (Co-Op) @ Brooks Automation — *Sept 2025–Present*
 
-*Sept 2025 – Present*
-
-* Architecting a real-time distributed control system across dual FPGA platforms, implementing SPI-based communication and LVDS signaling to ensure deterministic high-integrity data transfer across 2–10m physical links.
-* Designing software-driven validation pipelines for vacuum chamber infrastructure, building automated test workflows, thermal stability verification procedures, and reproducible data logging systems.
-* Bridging hardware/software layers to ensure control-system reliability under strict environmental constraints.
-
----
-
-### Researcher & Perception Engineer — PeAR Lab, WPI
-
-*Aug 2025 – Present*
-
-* Designed and trained a custom U-Net–based depth estimation model (PyTorch) using phase-mask optical data and supervised ground truth capture.
-* Implemented iterative image reconstruction algorithms (ADMM, FISTA) deployed on NVIDIA Jetson for real-time inference.
-* Prototyping a mirror-based stereo vision architecture to enable depth perception without traditional dual-camera baselines.
-* Evaluating system observability limits and informing next-generation multi-lens optical design.
+* Architecting a real-time distributed control system across dual FPGA platforms, implementing SPI-based communication layers and LVDS signaling to ensure deterministic, high-integrity data transfer over extended links (2–10m).
+* Designing software-driven validation workflows for vacuum chamber test infrastructure, building automated test procedures and structured data logging pipelines to ensure thermal stability and reproducible system performance.
+* Debugging hardware/software boundary layers including timing alignment, signal integrity validation, and FPGA logic verification.
+  `Verilog`, `FPGA`, `SPI`, `LVDS`, `Quartus`, `ModelSim`, `Embedded Control`, `Test Automation`
 
 ---
 
-### Automation & Lab Test Engineering Intern — Brooks Automation
+### Researcher & Perception Engineer @ Perception & Autonomous Robotics Lab (PeAR), WPI — *Aug 2025–Present*
 
-*May 2025 – Aug 2025*
-
-* Implemented SPI communication between master/slave Altera FPGA boards in Verilog, validating signal integrity through ModelSim simulation and physical cable-length testing.
-* Designed FPGA-based embedded control logic to process ADC data and generate real-time PWM signals.
-* Commissioned a custom vacuum chamber test stand integrating CAD designs and electromechanical subsystems.
-
----
-
-### Product Developer — EPFL (Lausanne, Switzerland)
-
-*March – May 2025*
-
-* Developed a frontend search interface integrated with a campus-wide research database.
-* Focused on query optimization, scalable data retrieval, and usability-centered design for high-volume academic datasets.
+* Designed and trained a custom U-Net–based deep learning model in PyTorch for monocular depth estimation using custom-fabricated phase-mask optics.
+* Implemented image reconstruction solvers (ADMM, FISTA) deployed on NVIDIA Jetson for real-time inference and optimization.
+* Conducted reconstruction error analysis to evaluate system observability limits, informing next-generation multi-lens compound array architectures.
+* Prototyping mirror-based stereo vision systems for depth perception without dual-camera baselines.
+  `PyTorch`, `Computer Vision`, `Optimization`, `Embedded AI`, `Jetson`, `Depth Estimation`
 
 ---
 
-### Software Test Engineer — Solgud Robotics (Harvard University Startup)
+### Automation & Lab Test Engineering Intern @ Brooks Automation — *May 2025–Aug 2025*
 
-*June 2023 – Sept 2023*
+* Developed SPI-based communication pipelines between master/slave Altera FPGA boards with validated timing integrity via ModelSim simulation.
+* Integrated embedded ADC acquisition and real-time PWM signal generation for deterministic control-loop behavior.
+* Designed and integrated a custom vacuum chamber test stand to accelerate hardware validation cycles.
+  `FPGA`, `SPI`, `Embedded C`, `ModelSim`, `Hardware Integration`
 
-* Diagnosed and resolved localization, SLAM, object detection, and path-planning failures in autonomous robotic systems.
-* Debugged sensor integration issues across LiDAR, IMU, and encoder pipelines.
-* Improved navigation reliability across dynamic indoor environments through hardware/software validation cycles.
+---
+
+### Product Developer – Search Tool UI Design @ EPFL (Lausanne, Switzerland) — *March 2025–May 2025*
+
+* Developed a scalable frontend search interface integrated with a campus-wide research database.
+* Optimized query handling and retrieval workflows for efficient large-scale data access.
+  `React`, `APIs`, `Frontend Architecture`, `Query Optimization`
+
+---
+
+### Back-End Developer (Part-Time) @ Mechanical Engineering Department, WPI — *Sept 2024–Feb 2025*
+
+* Built a lab access management web application using HTML, CSS, and JavaScript with structured permission handling and database-backed workflows.
+  `JavaScript`, `Web Systems`, `Backend Logic`
+
+---
+
+### CS & Robotics Instructor @ iD Tech (MIT Campus) — *May 2024–Aug 2024*
+
+* Instructed 100+ students in Python, AI, machine learning fundamentals, and robotics engineering using VEX platforms.
+* Designed applied engineering projects to reinforce systems thinking and algorithmic reasoning.
+
+---
+
+### Software Test Engineer @ Solgud Robotics (Harvard University) — *June 2023–Sept 2023*
+
+* Diagnosed and resolved software/hardware issues in localization, SLAM, and path-planning pipelines.
+* Improved robot navigation robustness through systematic debugging of perception and control subsystems.
+  `SLAM`, `LiDAR`, `Debugging`, `Robotics Systems`
 
 ---
 
@@ -100,110 +105,56 @@ Software Engineering, Artificial Intelligence, Operating Systems, Computer Netwo
 
 ---
 
-# 🤖 Robotics & Autonomous Systems
+## 🤖 Robotics Systems
 
-### Autonomous Solar Panel Replacement Robot
-
-* Designed FSM-driven autonomous robot with servo-actuated gripper for panel removal/replacement.
-* Integrated line-following, IR control, and state-based task execution (85% task success rate).
-  `C/C++`, `Embedded Systems`, `FSM`
-
-### Escape Room Maze Runner Robot
-
-* Built ramp-climbing robot with AprilTag-based localization (~1mm precision).
-* Coordinated dual-robot synchronization for mechanical stability.
-  `C/C++`, `Computer Vision`, `Localization`
-
-### Industrial Serial-Arm Manipulation System
-
-* Developed real-time vision-based object tracking system.
-* Implemented inverse kinematics, trajectory generation, and control for 5-DOF robotic arm (95% control accuracy).
-  `MATLAB`, `OpenCV`, `Kinematics`, `Control`
-
-### Vehicle Perception Simulation (Unreal Engine)
-
-* Developed LiDAR simulation modules in Unreal Engine using C++ to replicate autonomous driving perception environments.
-  `C++`, `Simulation`, `LiDAR`
+| Project                                      | Description                                                                                                                                                          | Tools                                      |
+| -------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
+| **Vehicle Simulation (Unreal Engine)**       | Developed LiDAR simulation modules in Unreal Engine to replicate autonomous vehicle perception scenarios and validate synthetic sensor outputs.                      | `C++`, `Python`, `LiDAR`, `Unreal Engine`  |
+| **Industrial Serial-Arm Robot Manipulation** | Built a real-time machine vision tracking system controlling a 5-DOF robotic manipulator using inverse kinematics and trajectory generation (95% tracking accuracy). | `MATLAB`, `OpenCV`, `Embedded C`, `Linux`  |
+| **Escape Room Maze Runner Robot**            | Designed ramp-climbing robot with AprilTag localization (~1mm precision) and synchronized dual-robot coordination.                                                   | `C/C++`, `FSM`, `AprilTags`                |
+| **Autonomous Solar Panel Replacement Robot** | Developed FSM-controlled robot with servo-actuated gripper and line-following algorithms achieving 85% task completion accuracy.                                     | `C++`, `Embedded Systems`, `Control Logic` |
 
 ---
 
-# ⚙️ Embedded & ECE Systems
+## ⚡ ECE / Embedded / FPGA Systems
 
-### FPGA-Based SPI Communication Platform
-
-* Designed master/slave FPGA communication system using SPI and validated signal reliability under long-distance constraints.
-  `Verilog`, `SPI`, `ModelSim`
-
-### Embedded Time & Temperature Display (MSP430)
-
-* Implemented ADC12 temperature sensing and Timer A2 scheduling for real-time display logic.
-  `Embedded C`, `ADC`, `Timers`
-
-### Real-Time ADC-to-PWM Control Loop
-
-* Built FPGA logic pipeline converting sensor data into deterministic PWM control signals.
-  `FPGA`, `Embedded Control`
+| Project                                  | Description                                                                                                             | Tools                         |
+| ---------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
+| **Embedded Time & Temperature Display**  | Developed MSP430-based embedded system using ADC12 for thermal sensing and Timer A2 for real-time clock logic.          | `Embedded C`, `ADC`, `Timers` |
+| **FPGA-Based ADC to PWM Control System** | Implemented SPI-driven ADC acquisition and real-time PWM signal generation for deterministic embedded control behavior. | `Verilog`, `SPI`, `FPGA`      |
 
 ---
 
-# 💻 CS / Software Engineering & Distributed Systems
+## 🧠 Machine Learning & Perception
 
-### Tables4U – Restaurant Reservation Platform
-
-* Built full-stack system using React frontend and AWS Lambda backend.
-* Integrated API Gateway, RDS, and real-time reservation workflows.
-  `AWS`, `React`, `TypeScript`, `SQL`
-
-### ChoreMates – Multi-User Roommate Coordination App
-
-* Designed scalable full-stack application supporting authentication, shared expense tracking, and grocery management.
-* Implemented cloud-hosted backend services and API-driven state synchronization.
-  `React`, `AWS`, `Node.js`
-
-### HTTP Client/Server with Priority Packet Scheduling
-
-* Implemented HTTP/1.1 client/server using socket programming.
-* Designed custom packet scheduler to simulate router-level prioritization and improve throughput under congestion.
-  `C/C++`, `Sockets`, `Wireshark`
-
-### AI Path Planning & Heuristic Optimization
-
-* Built modular path-planning engine implementing A*, hill climbing, and heuristic evaluation strategies.
-* Benchmarked node expansion, runtime scaling, and convergence under obstacle constraints.
-  `Python`, `Algorithms`, `Graph Search`
+| Project                                       | Description                                                                                                                                      | Tools                                             |
+| --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------- |
+| **Mudra AI – Real-Time ASL Translator**       | Built a real-time ASL-to-text/voice pipeline using landmark extraction (~90% accuracy) with LLM refinement and TTS output.                       | `TensorFlow`, `MediaPipe`, `Python`, `Gemini API` |
+| **Traffic Sign Classification**               | Implemented custom CNN achieving 99% classification accuracy on traffic sign dataset; benchmarked against pretrained architectures.              | `PyTorch`, `TensorFlow`, `NumPy`                  |
+| **AI Path Planning & Heuristic Optimization** | Built A* and hill-climbing search planners for 2D robot navigation; benchmarked optimal vs. local search performance under obstacle constraints. | `Python`, `C++`, `Algorithms`                     |
 
 ---
 
-# 🧠 Machine Learning & AI
+## 💻 CS / Software & Distributed Systems
 
-### Mudra AI – Real-Time ASL Gesture Translator
-
-* Developed real-time ASL-to-text/voice system using MediaPipe landmark extraction (~90% detection accuracy).
-* Integrated Gemini for language refinement and ElevenLabs TTS for speech output.
-  `TensorFlow`, `Computer Vision`, `LLM Integration`
-
-### Traffic Sign Classification
-
-* Implemented CNN-based classifier achieving 99% accuracy on traffic sign dataset.
-* Compared architectures across TensorFlow and PyTorch pipelines.
-  `Deep Learning`, `CNNs`
-
-### Phase-Mask Depth Estimation
-
-* Built custom U-Net architecture for depth reconstruction from computational optics data.
-* Conducted error analysis to inform multi-lens system redesign.
-  `PyTorch`, `Computer Vision`
+| Project                                       | Description                                                                                                                         | Tools                                              |
+| --------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| **Tables4U Restaurant Booking System**        | Built full-stack AWS-based reservation platform with Lambda backend, API Gateway integration, and SQL-based persistence.            | `AWS`, `React`, `TypeScript`, `SQL`                |
+| **ChoreMates – Roommate Coordination App**    | Designed multi-user full-stack app with authentication, shared expense tracking, and grocery list management.                       | `React`, `AWS`, `APIs`, `JavaScript`               |
+| **HTTP Client & Priority Packet Scheduler**   | Implemented HTTP/1.1 client-server architecture with custom priority-based packet scheduling to simulate router-level optimization. | `C++`, `Python`, `Socket Programming`, `Wireshark` |
+| **Graphing & Mechanical Analysis Tool (GUI)** | Developed modular Python GUI supporting derivative/integral evaluation and coordinate transformations.                              | `Python`, `Tkinter`, `Matplotlib`                  |
 
 ---
 
-## Leadership
+## Leadership & Achievements
 
-Vice President — South Asian Student Association (SASA)
-Leading campus-wide programming, cross-cultural initiatives, and event coordination.
+* **Vice President, South Asian Student Association (SASA)** — Jan 2023–Present
+* 6× Dean’s List
+* GPA: 3.81/4.00
 
 ---
 
-## Connect With Me
+## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/vivek-reddy-kasireddy/)
 [![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/vivekisreddy)
