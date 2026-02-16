@@ -170,7 +170,3 @@ Expected Graduation: May 2026 | GPA: 3.81/4.00
   <img src="https://github-readme-stats.vercel.app/api?username=vivekisreddy&show_icons=true&theme=radical" width="45%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekisreddy&layout=compact&theme=radical" width="45%"/>
 </p>
-
-
-* Or make it more big-tech SWE focused
-* Or make it more robotics/defense contractor focused
