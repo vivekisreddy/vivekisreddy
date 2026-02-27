@@ -1,9 +1,3 @@
-Got it — you want your README **re-structured into the modern “badge / compact sections” style**, not rewritten content-wise, just reformatted.
-
-Below is a **ready-to-paste replacement** for your GitHub README front page.
-
----
-
 # Vivek Reddy Kasireddy
 
 <p align="center">
